@@ -1,0 +1,128 @@
+[14:29:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:29:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:29:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:29:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:29:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:29:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:29:54] [main/INFO]: Reloading ResourceManager: Default
+[14:29:56] [Worker-Main-5/INFO]: Loaded 7 recipes
+[14:29:58] [Worker-Main-5/INFO]: Loaded 927 advancements
+[14:30:02] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:30:02] [Server thread/INFO]: Loading properties
+[14:30:02] [Server thread/INFO]: Default game type: SURVIVAL
+[14:30:02] [Server thread/INFO]: Generating keypair
+[14:30:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:30:03] [Server thread/INFO]: Using default channel type
+[14:30:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:30:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:30:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:30:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:30:06] [Server thread/INFO]: Preparing level "New World"
+[14:30:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:14] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:15] [Server thread/INFO]: Preparing spawn area: 0%
+[14:30:15] [Server thread/INFO]: Preparing spawn area: 83%
+[14:30:20] [Server thread/INFO]: Time elapsed: 13551 ms
+[14:30:20] [Server thread/INFO]: Done (13.972s)! For help, type "help"
+[14:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:30:54] [Server thread/INFO]: HONNMANN[/100.127.82.15:61743] logged in with entity id 432 at (164.5, 68.0, 212.5)
+[14:30:54] [Server thread/INFO]: HONNMANN joined the game
+[14:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[14:30:58] [Server thread/INFO]: Sapiens[/100.127.82.15:57218] logged in with entity id 479 at (195.59470118472206, 76.0, 17.30000001192093)
+[14:30:58] [Server thread/INFO]: Sapiens joined the game
+[14:31:04] [Server thread/INFO]: HONNMANN lost connection: You logged in from another location
+[14:31:05] [Server thread/INFO]: HONNMANN left the game
+[14:31:06] [Server thread/WARN]: handleDisconnection() called twice
+[14:31:06] [Server thread/INFO]: HONNMANN[/100.127.82.15:61745] logged in with entity id 491 at (164.5, 68.0, 212.5)
+[14:31:06] [Server thread/INFO]: HONNMANN joined the game
+[14:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45513ms or 910 ticks behind
+[14:32:30] [Server thread/INFO]: AndreFF2612[/100.64.35.87:63862] logged in with entity id 950 at (168.5, 69.0, 209.5)
+[14:32:30] [Server thread/INFO]: AndreFF2612 joined the game
+[14:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5086ms or 101 ticks behind
+[14:33:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1217, l='ServerLevel[Ubuntu World]', x=237.41, y=68.00, z=32.73]
+[14:33:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1217, l='ServerLevel[Ubuntu World]', x=237.41, y=68.00, z=32.73]
+[14:33:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1217, l='ServerLevel[Ubuntu World]', x=237.41, y=68.00, z=32.73]
+[14:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[14:34:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9898ms or 197 ticks behind
+[14:34:28] [Server thread/INFO]: <Sapiens> vamos al infierno a matar chanchos
+[14:34:37] [Server thread/INFO]: <AndreFF2612> lo llevas
+[14:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14:34:41] [Server thread/INFO]: AndreFF2612 lost connection: Disconnected
+[14:34:41] [Server thread/INFO]: AndreFF2612 left the game
+[14:35:01] [Server thread/INFO]: <Sapiens> luis agarra hachas
+[14:35:04] [Server thread/INFO]: <HONNMANN> comom mato
+[14:35:10] [Server thread/INFO]: <Sapiens> y espada
+[14:35:27] [Server thread/INFO]: HONNMANN has made the advancement [Isn't It Iron Pick]
+[14:35:41] [Server thread/INFO]: <Sapiens> vamos
+[14:36:22] [Server thread/INFO]: <Sapiens> goo
+[14:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[14:36:38] [Server thread/INFO]: <HONNMANN> para que el hacha
+[14:36:41] [Server thread/INFO]: Sapiens has made the advancement [We Need to Go Deeper]
+[14:36:50] [Server thread/INFO]: HONNMANN has made the advancement [We Need to Go Deeper]
+[14:36:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9479ms or 189 ticks behind
+[14:37:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Golden Sword'/1711, l='ServerLevel[Ubuntu World]', x=190.94, y=76.00, z=-22.86]
+[14:37:06] [Server thread/INFO]: <Sapiens> ven
+[14:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8116ms or 162 ticks behind
+[14:37:35] [Server thread/INFO]: Sapiens has made the advancement [Monster Hunter]
+[14:38:23] [Server thread/INFO]: HONNMANN was slain by Piglin
+[14:38:42] [Server thread/INFO]: <Sapiens> don taz
+[14:38:49] [Server thread/INFO]: <HONNMANN> ew muerto
+[14:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[14:39:07] [Server thread/INFO]: HONNMANN was shot by Skeleton
+[14:39:42] [Server thread/INFO]: Sapiens has made the advancement [Sweet Dreams]
+[14:40:31] [Server thread/INFO]: <Sapiens> jajaja está tan lag que no me despierto de dormir
+[14:40:51] [Server thread/INFO]: <Sapiens> que raro no se puede dormir
+[14:41:00] [Server thread/INFO]: <HONNMANN> porque no no estoy duemirendo pe
+[14:41:04] [Server thread/INFO]: <HONNMANN> yo
+[14:41:23] [Server thread/INFO]: <HONNMANN> dodne esta la cama
+[14:41:25] [Server thread/INFO]: <Sapiens> es mi guardaespaladas
+[14:41:37] [Server thread/INFO]: <HONNMANN> pon otra
+[14:42:16] [Server thread/INFO]: <HONNMANN> el criper revento la granja
+[14:42:17] [Server thread/INFO]: <HONNMANN> :v
+[14:43:20] [Server thread/INFO]: HONNMANN has made the advancement [Sweet Dreams]
+[14:43:41] [Server thread/INFO]: <Sapiens> pon la cama blanca
+[14:44:07] [Server thread/INFO]: <Sapiens> funcionó
+[14:44:37] [Server thread/WARN]: Sapiens moved too quickly! 0.20602790652117164,-4.0,-9.207186317416294
+[14:44:37] [Server thread/INFO]: <Sapiens> van de nuevo
+[14:45:31] [Server thread/INFO]: HONNMANN has made the advancement [Monster Hunter]
+[14:46:38] [Server thread/INFO]: <HONNMANN> me va lento xd
+[14:46:43] [Server thread/INFO]: <Sapiens> igual
+[14:46:50] [Server thread/INFO]: <Sapiens> es mi laptop
+[14:46:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[14:46:54] [Server thread/INFO]: HONNMANN lost connection: Timed out
+[14:46:54] [Server thread/INFO]: HONNMANN left the game
+[14:47:20] [Server thread/INFO]: HONNMANN[/100.127.82.15:61907] logged in with entity id 3465 at (194.12955659003345, 76.7531999805212, -11.300000011920929)
+[14:47:20] [Server thread/INFO]: HONNMANN joined the game
+[14:47:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3500, l='ServerLevel[Ubuntu World]', x=236.72, y=68.00, z=24.58]
+[14:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[14:47:53] [Server thread/INFO]: HONNMANN was slain by Piglin
+[14:47:54] [Server thread/INFO]: <Sapiens> baja
+[14:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14:48:56] [Server thread/INFO]: <Sapiens> pobre chanchito
+[14:49:15] [Server thread/WARN]: Sapiens was kicked for floating too long!
+[14:49:15] [Server thread/INFO]: Sapiens lost connection: Flying is not enabled on this server
+[14:49:15] [Server thread/INFO]: Sapiens left the game
+[14:51:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3940, l='ServerLevel[Ubuntu World]', x=242.05, y=68.00, z=28.80]
+[14:52:28] [Server thread/WARN]: HONNMANN moved too quickly! 9.915343359448741,-1.0,2.2897087708452375
+[14:54:07] [Server thread/INFO]: HONNMANN lost connection: Disconnected
+[14:54:07] [Server thread/INFO]: HONNMANN left the game
+[14:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4470ms or 89 ticks behind
+[14:59:09] [Server thread/INFO]: Stopping server
+[14:59:09] [Server thread/INFO]: Saving players
+[14:59:09] [Server thread/INFO]: Saving worlds

@@ -1,0 +1,55 @@
+If you are running this world on a server:
+Please change the spawn-protection to 0 and set the view-distance to 12.
+The other settings can be as default.
+
+Rules:
+1. Play on; easy, normal or hard.
+2. Do not exceed 12 chunks in render distance.
+3. No cheating.
+
+Challenges:
+1. Build a house/livable area with one bed per player.
+2. Explore the underground.
+3. Make a wheat farm.
+4. Make a melon farm.
+5. Make a cactus farm.
+6. Make a sugarcane farm.
+7. Make a pumpkin farm.
+8. Build a watchtower.
+9. Build an underwater base.
+10. Build an open fire surrounded by brick.
+11. Hang some nice paintings on your walls.
+12. Find the village.
+13. Mapp out your island and it's surrounding with maps.
+14. Equip yourself with diamond armour and tools.
+15. Create yourself a clock and a compass.
+16. Construct some sort of redstone contraption.
+17. Build a smithy containing at least; forge, lava and furnaces.
+18. Find the flying island.
+19. Obtain an elytra in the normal world.
+20. Build a library, with an enchantment table in it.
+21. Find the lonely coral reef.
+22. Catch fish and create an aquarium.
+23. Write at least one book. Maybe about your stranded life.
+24. Find the destroyed nether portal, fix it, and adventure into the nether.
+25. Brew a potion.
+26. Summon a wither and kill it.
+27. Hang a nether star on a wall with an item frame.
+28. Build a hostile mob farm/grinder.
+29. Build a friendly mob farm.
+30. Find the end portal and kill the dragon.
+31. Hang the ender dragons head on a wall.
+32. Concur an end city.
+33. Obtain an elytra in the end.
+34. Build an enderman XP farm in the end.
+35. Visit 10 shipwrecks.
+36. Visit 10 underwater ruins.
+37. Create a slime block trampoline.
+38. Build a cave railroad for transportation.
+39. Build a jukebox and play some music.
+40. Reuse a shipwreck for something. Ex, farm.
+41. Build a water elevator, with soulsand and magma blocks.
+42. Find four turtle eggs and hatch them in water. Don't let Zombies destroy them.
+43. Turn an underwater ruin into a livable underwater city.
+44. Build a ship.
+45. Build a new island.
